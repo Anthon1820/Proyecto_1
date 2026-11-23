@@ -13,8 +13,8 @@ Por medio de compuertas logicas se iluminara un display de 7 segmentos.
 
 ## How to test
 
-Se le induce un pulso y según el numero que se necesite se modifica la tabla de la verdad que se halla con el dip switch de 6 posiciones.
+Se le induce un pulso y segun el numero que se necesite se modifica la tabla de la verdad que se halla con el dip switch de 6 posiciones.
 
 ## External hardware
 
-Resistencia, Potenciómetro, pulsadores abiertos, un switch de 3 posiciones, compuertas lógicas, display de 7 segmentos
+Resistencia, Potenciometro, pulsadores abiertos, un switch de 3 posiciones, compuertas logicas, display de 7 segmentos
