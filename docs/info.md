@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Por medio de compuertas logicas se iluminara un display de 7 segmentos.
 
 ## How to test
 
-Explain how to use your project
+Se le induce un pulso y según el numero que se necesite se modifica la tabla de la verdad que se halla con el dip switch de 6 posiciones.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Resistencia, Potenciómetro, pulsadores abiertos, un switch de 3 posiciones, compuertas lógicas, display de 7 segmentos
